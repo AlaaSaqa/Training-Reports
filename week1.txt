@@ -1,6 +1,13 @@
 week 1 
 day 1 : Sunday 6/2/2020
 working hours : 9am-4pm
+1. get the big picture about git
+2. communicate with team members and have a social network 
+3. understand the company style to do every thing 
+4. have a meeting with team leader Osama Abu Mansour and get a great advices to deal with work and how to start having a good skills , then have a good discussion about the git and start working on it 
 
 day 2 : Monday 7/2/2022
 working hours : 9am-4pm
+1. have a standup meeting with team leader and the other members .
+2. continue working on git with "get starting with git"course 
+
