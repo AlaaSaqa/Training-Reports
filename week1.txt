@@ -3,11 +3,30 @@ day 1 : Sunday 6/2/2020
 working hours : 9am-4pm
 1. get the big picture about git
 2. communicate with team members and have a social network 
-3. understand the company style to do every thing 
-4. have a meeting with team leader Osama Abu Mansour and get a great advices to deal with work and how to start having a good skills , then have a good discussion about the git and start working on it 
+3. understand the company style to do everything .
+4. have a meeting with team leader Osama Abu Mansour and get great advice to deal with work and how to start having good skills , then have a good discussion about the git and start working on it .
 
 day 2 : Monday 7/2/2022
 working hours : 9am-4pm
-1. have a standup meeting with team leader and the other members .
-2. continue working on git with "get starting with git"course 
+1. have a standup meeting with the team leader and the other members .
+2. continue working on git with the "get starting with git"course .
+
+day 3 :Tuesday 8/2/2022
+working hours : 9am-4pm
+1. working on the git course "how git works".
+2. finish revision for the last two courses .
+3. I had a standup meeting with my team .
+
+day 4: Wednesday 9/2/2022
+working hours : 3pm-9pm (online)
+1. finish the course on how git works .
+2. get good practice skills in using git .
+
+day 5 : Thursday 10/2/2022
+working hours : 9am - 6pm (online)
+1. start and finish course working with git branches .
+2. get very good practice skills .
+3. end the day with solving an exam with practice on an online website. 
+
+
 
