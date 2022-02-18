@@ -1,0 +1,61 @@
+Week 2
+Day 1 : Sunday 13/2/2020
+Working hours : 
+9am-4pm(offline)
+
+1. Finished course (Intro to C# and .Net) .
+2. Get started with C# .
+3. Read version history. 
+4. Made the first program. 
+5. Study language keywords. 
+
+ 
+Day 2 : Monday 14/2/2022
+Working hours : 
+9am-1pm(offline)
+3pm-8pm(online)
+
+1. Study class concept .
+2. Variables .
+3. Study data types (Numbers, Strings ..,etc).
+4. Study value and reference type.
+5. Study Interface and Operators .
+6. Indexer .
+7. Generics.
+
+Day 3 :Tuesday 15/2/2022
+Working hours : 
+9am-4pm(offline)
+
+1. Study if-else statements .
+2. Ternary operator .
+3. Switch .
+4. for , while and do while loops. 
+5. Partial class .
+6. Static concept. 
+7. Arrays (Multidimensional , Jagged Array).
+
+Day 4: Wednesday 16/2/2022
+Working hours : 
+8am-6pm (online)
+ 
+1. Study collections .
+2. Tuple and value tuple. 
+3. Build in Exceptions .
+4. Delegates .
+5. Events.
+
+
+
+Day 5 : Thursday 17/2/2022
+Working hours : 
+8am - 6pm (online)
+
+1. End the whole tutorial by ending the file system 
+* Stream I/O 
+* File , FileInfo 
+* Object Initializer 
+2. Read 5 articles about property and reflection .
+3. Start the next topic which is C# Generics .
+
+
