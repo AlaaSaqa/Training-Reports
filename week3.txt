@@ -1,0 +1,44 @@
+Week 3
+
+ 
+Day 1 : Sunday 20/2/2020
+Working hours : 9am-5pm
+
+1. Solve a stack task and another writing task .
+2. End the Generics course in c# .
+3. Had a meeting with my leader to discuss the tasks .
+
+
+Day 2 : Monday 21/2/2022
+
+Working hours : 9am-5pm (online)
+1. Start the Collections course and finish it .
+2. Read an article about the difference between Dictionary and HashTable .
+3. Had a meeting with myleader to discuss what is done .
+
+
+Day 3 :Tuesday 22/2/2022
+
+Working hours : 9am-5pm
+1. Start and end nullables course .
+2. Had a meeting with my leader to discuss what was done .
+
+
+Day 4: Wednesday 23/2/2022
+
+Working hours : 9am-5pm 
+1. Start and finish OOP course . 
+2. Start the first clean code course .
+3. Had a meeting with my leader and got an offer. 
+
+
+Day 5 : Thursday 24/2/2022
+
+Working hours : 9am - 5pm
+1. End the first clean code course .
+2. Start and end the second clean coding course .
+3. Discuss what is done with my leader .
+
+
+
+
