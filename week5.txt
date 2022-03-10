@@ -1,0 +1,44 @@
+Week 5
+
+ 
+Day 1 : Sunday 6/3/2022
+Working hours : 8am-4pm
+
+1. Continue working on the given task .
+2. Finished delegates Course .
+(Include Delegates , Events and Lambda Expression)
+
+
+Day 2 : Monday 7/3/2022
+
+Working hours : 8am-5pm
+1. Read two articles about delegates .
+2. Start Asynchronous programming course .
+
+
+Day 3 :Tuesday 7/3/2022
+
+Working hours : 8am-4pm(online)
+1. End Asynchronous programming course .
+2. Read an article about asynchronous programming .
+
+
+Day 4: Wednesday 9/3/2022
+
+Working hours : 8am-4pm 
+1. Start Encapsulation and SOLID course .
+2. Working on a task  .
+3. Watch youtube video about SOLID principles and Encapsulation .
+
+Day 5 : Thursday 10/3/2022
+
+Working hours : 8am - 4pm
+1. Finish encapsulation and SOLID course .
+2. Read 6 articles about Unit testing .
+
+
+Had practice skills for all topics above .
+
+
+
+
